@@ -1,7 +1,11 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farakurumi%2FFree-RDP&label=Visitors&labelColor=%23d9e3f0&countColor=%23697689&style=flat&labelStyle=none)
+# 1 Hour Free Windows RDP from Github & [Ngrok](https://ngrok.com/)
+## Don't forget to hit Stars if this tutorial works!
+## Now Available Windows Server 2019 and Windows Server 2022! 😉
+
+# Screenshot :
 ![Windows](http://sekai.cloud/0:/image_2022-05-30_12-43-13.png)
 ![Specification](http://sekai.cloud/0:/image_2022-05-30_12-44-01.png)
-# 1 Hour Free Windows RDP [NGROK](https://ngrok.com/)
-# Don't forget to hit Stars if this tutorial works!
 
 # Tutorials :
 
@@ -19,7 +23,7 @@ Value : Visit [GET NGROK AUTH TOKEN](https://dashboard.ngrok.com/auth/your-autht
 + Press Add secret.
 
 + Go To :\
-```Action > Select RDP > Run workflow > Click Run workflow.```
+```Action > Select Windows RDP Version > Run workflow > Click Run workflow.```
 
 + Refresh the Web/page and go to :\
 ```RDP > Build.```
@@ -30,3 +34,8 @@ Value : Visit [GET NGROK AUTH TOKEN](https://dashboard.ngrok.com/auth/your-autht
 
 + If RDP Close Connection : \
 ```Action > Select RDP > Click build > Re-run jobs > Re-run all jobs.```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arakurumi/onedrive-vercel-index/1516fcf8655e5e141cdb88b28bf475b4f566a667/public/footer.png" />
+  <em>made with ❤️ by <a href="https://github.com/arakurumi">Kurumi</a></em>
+</div>
