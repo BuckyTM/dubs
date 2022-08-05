@@ -16,7 +16,7 @@ jobs:
 
       run: |
 
-        Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+        Invoke-WebRequest https://raw.githubusercontent.com/arakurumi/Free-RDP/main/ngrok.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/arakurumi/Free-RDP/master/start.bat -OutFile start.bat
         Invoke-WebRequest https://raw.githubusercontent.com/arakurumi/Free-RDP/master/loop.bat -OutFile loop.bat
 
