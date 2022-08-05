@@ -1,4 +1,4 @@
-name: Windows Server 2022 RDP
+name: Windows Server 2019 RDP
 
 on: workflow_dispatch
 
