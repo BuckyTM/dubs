@@ -45,6 +45,6 @@ jobs:
 
       run: cmd /c start.bat
 
-    - name: Checking Windows Server 2022 RDP.
+    - name: Checking Windows Server 2019 RDP.
 
       run: cmd /c loop.bat
