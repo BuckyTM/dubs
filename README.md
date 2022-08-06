@@ -4,8 +4,9 @@
 ## Now Available Windows Server 2019 and Windows Server 2022! 😉
 
 # Screenshot :
-![Windows](http://sekai.cloud/0:/image_2022-05-30_12-43-13.png)
-![Specification](http://sekai.cloud/0:/image_2022-05-30_12-44-01.png)
+![Windows](https://rimuru.cloud/api/raw/?path=/img/windows.png)
+![Specification](https://rimuru.cloud/api/raw/?path=/img/spesification.png)
+![Speedtest](https://rimuru.cloud/api/raw/?path=/img/speedtest.png)
 
 # Tutorials :
 
